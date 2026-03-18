@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: Sitemap: https://pleezgo.github.io/project-landing/sitemap.xml
